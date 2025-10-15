@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project is a simple HTML webpage to showcase the launch of the **SmartX Pro** smartwatch. 
+This project is a simple HTML webpage to know about the Smartwatch gadget **SmartX Pro** smartwatch. 
 
 ## Code Structure
 
